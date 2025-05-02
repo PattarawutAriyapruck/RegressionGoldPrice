@@ -1,8 +1,23 @@
 ## Project Linear Regression Analysis
 
-This project about using linear regression with gold price dataset to prediction, find relationship and interpretability of gold price.
+This project applies linear regression techniques to analyze and predict gold prices dataset. The objective is to explore the relationship between variables, ensure model interpretability, and build a reliable model for prediction.
 
-In this work, i check assumption includes; Linearity, Multicollinearity, Homoscedasticity, Independence, Normality and Outliers to find the relationship between variables and to understand each variables before doing regression analysis.
+## Methodology
+Before constructing the regression model, key assumptions were examined to validate the model's suitability:
+
+-Linearity
+
+-Multicollinearity
+
+-Homoscedasticity
+
+-Independence
+
+-Normality
+
+-Outliers
+
+These checks ensure the robustness and reliability of the regression analysis and help in understanding the role of each variable in influencing gold prices.
 
 ## Dataset
 - **Name of dataset**: Gold Futures Historical Data (23.01.24-22.11.24) Dataset.
