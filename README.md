@@ -2,7 +2,7 @@
 
 This project about using linear regression with gold price dataset to prediction, find relationship and interpretability of gold price.
 
-In this work, i check assumption includes; Linearity, Multicollinearity, Homoscedasticity, Independence, Normality and Outliers to check before doing regression analysis.
+In this work, i check assumption includes; Linearity, Multicollinearity, Homoscedasticity, Independence, Normality and Outliers to find the relationship between variables and to understand each variables before doing regression analysis.
 
 ## Dataset
 - **Name of dataset**: Gold Futures Historical Data (23.01.24-22.11.24) Dataset.
