@@ -5,17 +5,17 @@ This project applies linear regression techniques to analyze and predict gold pr
 ## Methodology
 Before constructing the regression model, key assumptions were examined to validate the model's suitability:
 
--Linearity
+- **Linearity**
 
--Multicollinearity
+- **Multicollinearity**
 
--Homoscedasticity
+- **Homoscedasticity**
 
--Independence
+- **Independence**
 
--Normality
+- **Normality**
 
--Outliers
+- **Outliers**
 
 These checks ensure the robustness and reliability of the regression analysis and help in understanding the role of each variable in influencing gold prices.
 
