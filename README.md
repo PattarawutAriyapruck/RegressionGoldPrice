@@ -1,4 +1,4 @@
-## Project Linear Regression Analysis
+# Project Linear Regression Analysis
 
 This project applies linear regression techniques to analyze gold prices dataset. The objective is to explore the relationship between variables, ensure model interpretability, and build a reliable model for prediction.
 
